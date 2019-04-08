@@ -1,0 +1,26 @@
+{
+    "news":
+            [
+                {
+                    "id": 1,
+                    "category": "news",
+                    "img": "../resources/run_map.jpg",
+                    "title": "start zapisów",
+                    "text": "15.04 rozpoczynamy zapisy na bieg Run For IT"
+                },
+                {
+                    "id": 2,
+                    "category": "news",
+                    "img": "../resources/run_map.jpg",
+                    "title": "start zapisów",
+                    "text": "15.04 rozpoczynamy zapisy na bieg Run For IT"
+                },
+                {
+                    "id": 3,
+                    "category": "news",
+                    "img": "../resources/run_map.jpg",
+                    "title": "start zapisów",
+                    "text": "15.04 rozpoczynamy zapisy na bieg Run For IT"
+                }
+            ]
+}

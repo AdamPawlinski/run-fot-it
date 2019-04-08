@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { HashRouter } from 'react-router-dom';
 import Routes from './components/Routes';
-import Main from './components/Main.component';
+import Footer from './components/Footer.component';
 import Navigation from './components/Navigation.component';
 import './App.css';
 
@@ -11,7 +11,8 @@ class App extends Component {
       <div className="App">
         <HashRouter> 
           <Navigation/>
-          <Routes/>          
+          <Routes/> 
+          <Footer/>         
         </HashRouter>
       </div>
     )
