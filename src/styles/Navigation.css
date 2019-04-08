@@ -1,8 +1,0 @@
-.navbar-main {
-    box-shadow: 0 2px 5px 0 rgba(0,0,0, .25); 
-}
-
-a:focus, a:active {
-    color: rgb(0,0,0) !important;
-    background-color: transparent !important;
-}
